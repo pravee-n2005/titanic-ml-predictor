@@ -1,5 +1,3 @@
-# titanic-ml-predictor
-
 # 🚢 Titanic Survival Prediction - Machine Learning Project
 
 This project predicts the survival of Titanic passengers using machine learning techniques. It is built using the famous Titanic dataset from Kaggle and demonstrates data cleaning, feature engineering, model training, evaluation, and prediction using a Random Forest classifier.
